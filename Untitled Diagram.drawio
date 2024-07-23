@@ -1,32 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T14:03:19.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XonH2DiHPwBmrxdNn6Xo" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T15:24:11.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Qdu0G1iUpRA77aZ6m4jl" version="24.7.1" type="github">
   <diagram name="Page-1" id="l0VmbOukR-xUwD7H9Fnu">
-    <mxGraphModel dx="1510" dy="1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3217" dy="2581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="Define Research Topic" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry width="173" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3" target="CtBuzTBs86Nf4qyt9eFp-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="CtBuzTBs86Nf4qyt9eFp-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3" target="CtBuzTBs86Nf4qyt9eFp-49">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="-460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3" value="Gather Background Information" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="223" width="240" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="CtBuzTBs86Nf4qyt9eFp-46">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="-40" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="4" value="Formulate Research Questions" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="513" width="232" height="34" as="geometry" />
@@ -88,60 +70,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-18" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="34" width="60" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-21" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;Why Do We Look Different?&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-23.5" y="110" width="220" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CtBuzTBs86Nf4qyt9eFp-28" target="3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-28" value="Race is a categorization of humans based on shared physical or social qualities into groups generally viewed as distinct within a given society." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-170" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CtBuzTBs86Nf4qyt9eFp-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="146" y="-340" as="targetPoint" />
-            <mxPoint x="260" y="-290" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="260" y="-315" />
-              <mxPoint x="146" y="-315" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="&#xa;&lt;span style=&quot;color: rgb(234, 236, 240); font-family: sans-serif; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(16, 20, 24); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;The term came into common usage during the 16th century, when it was used to refer to groups of various kinds, including those characterized by close&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a style=&quot;text-decoration: none; color: var(--color-progressive,#36c); background: none rgb(16, 20, 24); border-radius: 2px; overflow-wrap: break-word; font-family: sans-serif; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal;&quot; title=&quot;Kinship&quot; href=&quot;https://en.wikipedia.org/wiki/Kinship&quot;&gt;kinship&lt;/a&gt;&lt;span style=&quot;color: rgb(234, 236, 240); font-family: sans-serif; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(16, 20, 24); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&lt;/span&gt;relations.&lt;/span&gt;&#xa;&#xa;" link="&#xa;&lt;span style=&quot;color: rgb(234, 236, 240); font-family: sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(16, 20, 24); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;The term came into common usage during the 16th century, when it was used to refer to groups of various kinds, including those characterized by close&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a style=&quot;text-decoration: none; color: var(--color-progressive,#36c); background: none rgb(16, 20, 24); border-radius: 2px; overflow-wrap: break-word; font-family: sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal;&quot; title=&quot;Kinship&quot; href=&quot;https://en.wikipedia.org/wiki/Kinship&quot;&gt;kinship&lt;/a&gt;&lt;span style=&quot;color: rgb(234, 236, 240); font-family: sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(16, 20, 24); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;relations.&lt;/span&gt;&#xa;&#xa;" id="CtBuzTBs86Nf4qyt9eFp-30">
-          <mxCell style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-            <mxGeometry x="100" y="-270" width="350" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.091;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CtBuzTBs86Nf4qyt9eFp-30" target="3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CtBuzTBs86Nf4qyt9eFp-33" target="CtBuzTBs86Nf4qyt9eFp-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="-380" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-33" value="Kinship" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-35" value="An anthropology, kinship is the web of social relationships that form an important part of the lives of all humans in all societies, although its exact meanings even within this discipline are often debated" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-395" width="630" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-40" value="By the 17th century, the term began to refer to physical (phenotypical) traits, and then later to national affiliations. Modern science regards race as a social construct, an identity which is assigned based on rules made by society" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="150" width="340" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-43" value="Humans (Homo sapiens) or modern humans are the most common and widespread species of primate, and the last surviving species of the genus Homo." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-210" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-46" value="Why do we look different?" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-80" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CtBuzTBs86Nf4qyt9eFp-49" value="In genetics, the phenotype (from Ancient Greek φαίνω (phaínō) &#39;to appear, show&#39;, and τύπος (túpos) &#39;mark, type&#39;) is the set of observable characteristics or traits of an organism." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="-520" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
